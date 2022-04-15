@@ -3,7 +3,7 @@
 "autorecording": false,
 "bugc": false,
 "antitrol": false,
-"antical": false,
+"antical": true,
 "antitags": false,
 "readG": false,
 "readP": true,
@@ -14,7 +14,7 @@
 "banChats": false,
 "autorespon": false,
 "database": false,
-"premium": false,
+"premium": true,
 "infoerror": false,
 "autobackup": false
 }
