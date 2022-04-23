@@ -5,7 +5,7 @@
 "antitrol": false,
 "antical": true,
 "antitags": true,
-"readG": true,
+"readG": false,
 "readP": true,
 "regisinfo": false,
 "autoregis": false,
